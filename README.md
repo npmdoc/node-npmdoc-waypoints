@@ -1,9 +1,14 @@
-# api documentation for  [waypoints (v4.0.1)](https://github.com/imakewebthings/waypoints#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-waypoints.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-waypoints) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-waypoints.svg)](https://travis-ci.org/npmdoc/node-npmdoc-waypoints)
+# npmdoc-waypoints
+
+#### api documentation for  [waypoints (v4.0.1)](https://github.com/imakewebthings/waypoints#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-waypoints.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-waypoints) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-waypoints.svg)](https://travis-ci.org/npmdoc/node-npmdoc-waypoints)
+
 #### Easily execute a function when you scroll to an element
 
-[![NPM](https://nodei.co/npm/waypoints.png?downloads=true)](https://www.npmjs.com/package/waypoints)
+[![NPM](https://nodei.co/npm/waypoints.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/waypoints)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-waypoints/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-waypoints_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-waypoints/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-waypoints/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-waypoints/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-waypoints/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-waypoints/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-waypoints/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Caleb Troughton",
-        "email": "caleb@imakewebthings.com",
         "url": "http://imakewebthings.com"
     },
     "bugs": {
@@ -52,17 +56,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "anthonyshort",
-            "email": "antshort@gmail.com"
+            "name": "anthonyshort"
         },
         {
-            "name": "imakewebthings",
-            "email": "caleb@imakewebthings.com"
+            "name": "imakewebthings"
         }
     ],
     "name": "waypoints",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/imakewebthings/waypoints.git"
@@ -77,16 +78,6 @@
     "version": "4.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module waypoints](#apidoc.module.waypoints)
-
-
-
-# <a name="apidoc.module.waypoints"></a>[module waypoints](#apidoc.module.waypoints)
 
 
 
